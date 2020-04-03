@@ -1,2 +1,4 @@
 ﻿* {background: lemonchiffon;}
 h1 {color: red;}
+th {border: solid 1px;	padding: 0.5em;}
+td {border: solid 1px;	padding: 0.5em;}
